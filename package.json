@@ -1,0 +1,19 @@
+{
+  "name": "devchallengebuttoncomponent",
+  "version": "1.0.0",
+  "description": "check out devchallengesio by doing this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbobkerElaghel/devChallengeButtonComponent.git"
+  },
+  "author": "abobker elaghel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbobkerElaghel/devChallengeButtonComponent/issues"
+  },
+  "homepage": "https://github.com/AbobkerElaghel/devChallengeButtonComponent#readme"
+}
